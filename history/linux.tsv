@@ -1,4 +1,5 @@
 Commit	Status
+8aa42ed7c2adb9f37faa6eb905f890f6199e1db9	{"rust-by-example":"test-pass","embedded-book":"test-pass","edition-guide":"test-pass","nomicon":"test-pass","reference":"test-pass","rls":"test-pass","rustfmt":"test-pass","miri":"build-fail","book":"test-pass","clippy-driver":"test-pass"}
 7e08576e4276a97b523c25bfd196d419c39c7b87	{"edition-guide":"test-pass","nomicon":"test-pass","miri":"build-fail","clippy-driver":"test-pass","reference":"test-pass","book":"test-pass","rls":"test-fail","rustfmt":"test-pass","rust-by-example":"test-pass","embedded-book":"test-pass"}
 bbbb3e597482bec1260ea733f7d3fc813bc136ae	{"rls":"test-pass","nomicon":"test-pass","embedded-book":"test-pass","clippy-driver":"test-pass","edition-guide":"test-pass","miri":"test-pass","rustfmt":"test-pass","rust-by-example":"test-pass","reference":"test-pass","book":"test-pass"}
 166c49d7a1db570d273a653b2b0a0d9219b7700f	{"nomicon":"test-pass","rls":"test-pass","embedded-book":"test-pass","miri":"test-pass","book":"test-pass","edition-guide":"test-pass","reference":"test-pass","rust-by-example":"test-pass","rustfmt":"test-pass","clippy-driver":"build-fail"}
